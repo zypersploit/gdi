@@ -1,4 +1,3 @@
 # GDI
 
-## Warning
-This is for educational purposes only!
+This is for educational purposes only, I am not responsible for your actions.
